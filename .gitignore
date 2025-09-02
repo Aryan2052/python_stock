@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+
+# Local data (optional)
+*.pkl
+
+# Model artifacts (optional)
+*.h5
